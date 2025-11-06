@@ -1,4 +1,4 @@
-name: Azure Static Web Apps CI/CD
+name: Thecloudprojects Static Web Apps CI/CD
 
 pr:
   branches:
@@ -17,17 +17,18 @@ jobs:
     vmImage: ubuntu-latest
   variables:
   - group: Azure-Static-Web-Apps-gentle-ocean-0a263fd10-variable-group
+
   steps:
   - checkout: self
     submodules: true
+    displayName: Checkout repo
+
   - task: AzureStaticWebApp@0
+    displayName: Build & Deploy
     inputs:
       azure_static_web_apps_api_token: $(AZURE_STATIC_WEB_APPS_API_TOKEN_GENTLE_OCEAN_0A263FD10)
-###### Repository/Build Configurations - These values can be configured to match your app requirements. ######
-# For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
-      app_location: "/" # App source code path
-      api_location: "" # Api source code path - optional
-      output_location: "docs/.vitepress/dist" # Built app content directory - optional
-      app_build_command: "rm -rf node_modules package-lock.json && npm install && npm run docs:build" # Custom build command for VitePress with dependency reinstall
-###### End of Repository/Build Configurations ######
+      app_location: "/"
+      api_location: ""
+      output_location: "docs/.vitepress/dist"
+      app_build_command: "rm -rf node_modules package-lock.json && npm install && npm run docs:build"
 
