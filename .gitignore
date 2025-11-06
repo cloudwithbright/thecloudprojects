@@ -1,0 +1,68 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+dist/
+.vitepress/dist/
+.vitepress/cache/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Cloud provider credentials
+*.pem
+*.key
+credentials.json
+config.json
+.aws/
+.azure/
+.gcloud/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Python (for MLOps/LLMOps projects)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Testing
+coverage/
+.coverage
+.pytest_cache/
+
+# OS generated files
+Thumbs.db
+.DS_Store

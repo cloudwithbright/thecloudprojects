@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "name": "thecloudprojects",
+  "version": "1.0.0",
+  "description": "The cloud projects",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "author": "Bright Debrah Owusu",
+  "license": "ISC"
+}
