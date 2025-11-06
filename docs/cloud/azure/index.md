@@ -25,7 +25,7 @@ Event-driven serverless compute platform supporting multiple languages.
 - Built-in monitoring and diagnostics
 - Support for Python, JavaScript, C#, Java, and PowerShell
 
-[Start Functions Projects →](/cloud/azure/functions)
+<!-- [Start Functions Projects →](/cloud/azure/functions) -->
 
 ### Container Services
 
@@ -36,7 +36,7 @@ Fully managed serverless container service built on Kubernetes.
 - Managed certificates and custom domains
 - Native Dapr integration
 
-[Start Container Apps Projects →](/cloud/azure/containerapp)
+<!-- [Start Container Apps Projects →](/cloud/azure/containerapp) -->
 
 #### Azure Kubernetes Service (AKS)
 Managed Kubernetes service for deploying and managing containerized applications.
@@ -45,7 +45,7 @@ Managed Kubernetes service for deploying and managing containerized applications
 - Advanced networking options
 - Built-in monitoring with Azure Monitor
 
-[Start AKS Projects →](/cloud/azure/aks)
+<!-- [Start AKS Projects →](/cloud/azure/aks) -->
 
 ### Platform as a Service
 
@@ -56,7 +56,7 @@ Fully managed platform for building web apps and APIs.
 - Auto-scaling and high availability
 - Custom domains and SSL certificates
 
-[Start Web Apps Projects →](/cloud/azure/webapp)
+<!-- [Start Web Apps Projects →](/cloud/azure/webapp) -->
 
 #### Azure Logic Apps
 Automate workflows and integrate apps, data, and services.
@@ -65,7 +65,7 @@ Automate workflows and integrate apps, data, and services.
 - Enterprise integration patterns
 - B2B scenarios with EDI support
 
-[Start Logic Apps Projects →](/cloud/azure/logicapp)
+<!-- [Start Logic Apps Projects →](/cloud/azure/logicapp) -->
 
 ### Compute Services
 
@@ -76,7 +76,7 @@ Provision Windows and Linux VMs in seconds.
 - Managed disks and backup
 - High availability with availability sets
 
-[Start VM Projects →](/cloud/azure/vm)
+<!-- [Start VM Projects →](/cloud/azure/vm) -->
 
 #### Virtual Machine Scale Sets (VMSS)
 Deploy and manage identical VMs for high availability and scalability.
@@ -85,7 +85,7 @@ Deploy and manage identical VMs for high availability and scalability.
 - Rolling upgrades
 - Support for up to 1,000 VM instances
 
-[Start VMSS Projects →](/cloud/azure/vmss)
+<!-- [Start VMSS Projects →](/cloud/azure/vmss) -->
 
 ## Prerequisites
 

@@ -25,7 +25,7 @@ Build event-driven applications without managing servers. Perfect for:
 - Scheduled tasks
 - Real-time file processing
 
-[Start Lambda Projects →](/cloud/aws/lambda)
+[Start Lambda Projects →](/cloud/aws/lambda/)
 
 ### Container Services
 
@@ -35,7 +35,7 @@ Run Docker containers on AWS-managed infrastructure.
 - Integration with AWS services
 - Support for Fargate (serverless) and EC2
 
-[Start ECS Projects →](/cloud/aws/ecs)
+<!-- [Start ECS Projects →](/cloud/aws/ecs) -->
 
 #### Amazon EKS (Elastic Kubernetes Service)
 Managed Kubernetes service for running containerized applications.
@@ -43,7 +43,7 @@ Managed Kubernetes service for running containerized applications.
 - Automatic scaling
 - Built-in security and compliance
 
-[Start EKS Projects →](/cloud/aws/eks)
+[Start EKS Projects →](/cloud/aws/eks/)
 
 ### Platform as a Service
 
@@ -53,7 +53,7 @@ Deploy containerized web applications and APIs at scale.
 - Built-in load balancing and auto-scaling
 - Zero infrastructure management
 
-[Start App Runner Projects →](/cloud/aws/apprunner)
+[Start App Runner Projects →](/cloud/aws/apprunner/)
 
 ## Prerequisites
 

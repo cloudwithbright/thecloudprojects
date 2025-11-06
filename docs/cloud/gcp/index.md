@@ -25,7 +25,7 @@ Event-driven serverless functions that automatically scale.
 - Automatic scaling from zero
 - Pay only for execution time
 
-[Start Cloud Functions Projects →](/cloud/gcp/functions)
+<!-- [Start Cloud Functions Projects →](/cloud/gcp/functions) -->
 
 #### Cloud Run
 Fully managed platform for containerized applications.
@@ -34,7 +34,7 @@ Fully managed platform for containerized applications.
 - Scale to zero for cost savings
 - Built on Knative
 
-[Start Cloud Run Projects →](/cloud/gcp/cloudrun)
+<!-- [Start Cloud Run Projects →](/cloud/gcp/cloudrun) -->
 
 ### Container & Kubernetes
 
@@ -45,7 +45,7 @@ Industry-leading managed Kubernetes service.
 - Workload identity for service accounts
 - Multi-cluster management
 
-[Start GKE Projects →](/cloud/gcp/gke)
+<!-- [Start GKE Projects →](/cloud/gcp/gke) -->
 
 ### Platform as a Service
 
@@ -56,7 +56,7 @@ Fully managed platform for building scalable web applications.
 - Built-in services (memcache, task queues, etc.)
 - Traffic splitting for A/B testing
 
-[Start App Engine Projects →](/cloud/gcp/app_engine)
+<!-- [Start App Engine Projects →](/cloud/gcp/app_engine) -->
 
 #### Cloud Workflows
 Orchestrate Google Cloud and HTTP-based services.
@@ -65,7 +65,7 @@ Orchestrate Google Cloud and HTTP-based services.
 - Integration with Google Cloud services
 - Event-driven execution
 
-[Start Workflows Projects →](/cloud/gcp/workflow)
+<!-- [Start Workflows Projects →](/cloud/gcp/workflow) -->
 
 ### Compute Services
 
@@ -76,7 +76,7 @@ Scalable, high-performance virtual machines.
 - Live migration with zero downtime
 - GPU and TPU support
 
-[Start Compute Engine Projects →](/cloud/gcp/compute_engine)
+<!-- [Start Compute Engine Projects →](/cloud/gcp/compute_engine) -->
 
 ## Prerequisites
 
