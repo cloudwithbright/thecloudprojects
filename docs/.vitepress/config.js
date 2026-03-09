@@ -27,11 +27,11 @@ module.exports = {
                     text: 'AWS Projects',
                     items: [
                         { text: 'Overview', link: '/cloud/aws/' },
+                        { text: 'App Runner', link: '/cloud/aws/apprunner/' },
                         { text: 'Lambda', link: '/cloud/aws/lambda/' },
                         { text: 'ECS EC2', link: '/cloud/aws/ecs/ec2/' },
                         { text: 'ECS Fargate', link: '/cloud/aws/ecs/fargate/' },
                         { text: 'EKS', link: '/cloud/aws/eks/' },
-                        { text: 'App Runner', link: '/cloud/aws/apprunner/' },
                         { text: 'Elastic Beanstalk', link: '/cloud/aws/elasticbeanstalk/' }
                     ]
                 }
@@ -41,8 +41,8 @@ module.exports = {
                     text: 'Azure Projects',
                     items: [
                         { text: 'Overview', link: '/cloud/azure/' },
-                        { text: 'Functions', link: '/cloud/azure/functions/' },
                         { text: 'Container Apps', link: '/cloud/azure/containerapp/' },
+                        { text: 'Functions', link: '/cloud/azure/functions/' },
                         { text: 'Container Instances', link: '/cloud/azure/containerinstance/' },
                         { text: 'AKS', link: '/cloud/azure/aks/' },
                         { text: 'Logic Apps', link: '/cloud/azure/logicapp/' },
@@ -57,8 +57,8 @@ module.exports = {
                     text: 'GCP Projects',
                     items: [
                         { text: 'Overview', link: '/cloud/gcp/' },
-                        { text: 'Cloud Functions', link: '/cloud/gcp/functions/' },
                         { text: 'Cloud Run', link: '/cloud/gcp/cloudrun/' },
+                        { text: 'Cloud Functions', link: '/cloud/gcp/functions/' },
                         { text: 'GKE', link: '/cloud/gcp/gke/' },
                         { text: 'Compute Engine', link: '/cloud/gcp/compute_engine/' },
                         { text: 'App Engine', link: '/cloud/gcp/app_engine/' },
