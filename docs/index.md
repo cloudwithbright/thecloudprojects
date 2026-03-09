@@ -33,6 +33,18 @@ features:
   - icon: 🎯
     title: Project-Based Learning
     details: Build real applications from simple functions to complex distributed systems
+
+  - icon: 📋
+    title: Use Case Projects
+    details: Real-world use case projects combining multiple services for AWS, Azure, and GCP
+
+  - icon: 📐
+    title: Sample Architectures
+    details: Reference architecture diagrams and patterns for each cloud provider
+
+  - icon: 🔧
+    title: Terraform & Terragrunt
+    details: Example Terraform and Terragrunt modules for AWS, Azure, and GCP
 ---
 
 ## Introduction Video

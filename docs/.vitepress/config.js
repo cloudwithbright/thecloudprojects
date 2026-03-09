@@ -7,18 +7,15 @@ module.exports = {
 
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'Cloud', link: '/cloud/' },
+            { text: 'Projects', link: '/cloud/' },
             {
-                text: 'Projects',
+                text: 'Resources',
                 items: [
-                    { text: 'AWS', link: '/cloud/aws/' },
-                    { text: 'Azure', link: '/cloud/azure/' },
-                    { text: 'GCP', link: '/cloud/gcp/' }
+                    { text: 'Use Case Projects', link: '/use-cases/' },
+                    { text: 'Sample Architectures', link: '/architectures/' },
+                    { text: 'Terraform & Terragrunt', link: '/terraform/' }
                 ]
             },
-            { text: 'Use Case Projects', link: '/use-cases/' },
-            { text: 'Sample Architectures', link: '/architectures/' },
-            { text: 'Terraform & Terragrunt', link: '/terraform/' },
             { text: 'About Me', link: '/about' }
         ],
 
