@@ -123,7 +123,7 @@ module.exports = {
 
         footer: {
             message: 'Released under the MIT License.',
-            copyright: 'Copyright © 2025 Bright Debrah Owusu'
+            copyright: 'Copyright © 2026 Bright Debrah Owusu'
         },
 
         search: {
