@@ -4,7 +4,7 @@ layout: home
 hero:
   name: The Cloud Projects
   text: Master Cloud Engineering Through Hands-On Projects
-  tagline: A comprehensive platform for learning AWS, Azure, GCP, Oracle Cloud, MLOps, and LLMOps through practical, real-world projects
+  tagline: A comprehensive platform for learning AWS, Azure, GCP, MLOps, and LLMOps through practical, real-world projects
   actions:
     - theme: brand
       text: Get Started
@@ -16,7 +16,7 @@ hero:
 features:
   - icon: ☁️
     title: Multi-Cloud Coverage
-    details: Learn AWS, Azure, GCP, and Oracle Cloud with hands-on projects for each platform's core services
+    details: Learn AWS, Azure, and GCP with hands-on projects for each platform's core services
 
   - icon: 🚀
     title: Compute Services
@@ -74,7 +74,6 @@ This platform is designed for cloud engineers, developers, and enthusiasts who w
 - **AWS**: Lambda, ECS, EKS, App Runner, and more
 - **Azure**: Functions, Container Apps, AKS, Logic Apps, VMs
 - **GCP**: Cloud Functions, Cloud Run, GKE, Compute Engine
-- **Oracle Cloud**: Core compute and container services
 - **MLOps**: Model training, deployment, monitoring, and automation
 - **LLMOps**: LLM deployment, fine-tuning, and production patterns
 

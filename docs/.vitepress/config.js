@@ -15,8 +15,7 @@ module.exports = {
                 items: [
                     { text: 'AWS', link: '/cloud/aws/' },
                     { text: 'Azure', link: '/cloud/azure/' },
-                    { text: 'GCP', link: '/cloud/gcp/' },
-                    { text: 'Oracle Cloud', link: '/cloud/oracle/' }
+                    { text: 'GCP', link: '/cloud/gcp/' }
                 ]
             },
             { text: 'About Me', link: '/about' }
@@ -63,14 +62,6 @@ module.exports = {
                     ]
                 }
             ],
-            '/cloud/oracle/': [
-                {
-                    text: 'Oracle Cloud Projects',
-                    items: [
-                        { text: 'Overview', link: '/cloud/oracle/' }
-                    ]
-                }
-            ],
             '/mlops/': [
                 {
                     text: 'MLOps Projects',
@@ -94,8 +85,7 @@ module.exports = {
                         { text: 'Overview', link: '/cloud/' },
                         { text: 'AWS', link: '/cloud/aws/' },
                         { text: 'Azure', link: '/cloud/azure/' },
-                        { text: 'GCP', link: '/cloud/gcp/' },
-                        { text: 'Oracle Cloud', link: '/cloud/oracle/' }
+                        { text: 'GCP', link: '/cloud/gcp/' }
                     ]
                 },
                 {

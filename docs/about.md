@@ -19,14 +19,14 @@ My journey in cloud computing started with a simple curiosity about how modern a
 I believe the best way to learn cloud engineering is by building real projects. Traditional tutorials often skip the practical challenges you'll face in production. The Cloud Projects was born from my desire to create a comprehensive resource that:
 
 - Provides real-world project scenarios
-- Covers multiple cloud providers (AWS, Azure, GCP, Oracle Cloud)
+- Covers multiple cloud providers (AWS, Azure, GCP)
 - Includes modern practices like MLOps and LLMOps
 - Teaches both the "how" and the "why" behind cloud architectures
 - Helps developers build production-ready skills
 
 ### My Expertise
 
-- **Cloud Platforms**: AWS, Azure, Google Cloud Platform, Oracle Cloud
+- **Cloud Platforms**: AWS, Azure, Google Cloud Platform
 - **Containerization**: Docker, Kubernetes, ECS, AKS, GKE
 - **Serverless**: Lambda, Azure Functions, Cloud Functions, Cloud Run
 - **Infrastructure as Code**: Terraform, CloudFormation, ARM Templates
@@ -172,7 +172,7 @@ This platform wouldn't be possible without:
 - The amazing cloud engineering community
 - Contributors who share their knowledge and projects
 - Learners who provide feedback and inspiration
-- The teams behind AWS, Azure, GCP, and Oracle Cloud
+- The teams behind AWS, Azure, and GCP
 - Open-source tools and frameworks that make this possible
 
 ---

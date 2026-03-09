@@ -4,7 +4,7 @@ Welcome to the Cloud Computing section! This is your hub for hands-on projects a
 
 ## Overview
 
-Cloud computing has revolutionized how we build, deploy, and scale applications. This section provides practical, real-world projects to help you master the essential services across AWS, Azure, Google Cloud Platform, and Oracle Cloud.
+Cloud computing has revolutionized how we build, deploy, and scale applications. This section provides practical, real-world projects to help you master the essential services across AWS, Azure, and Google Cloud Platform.
 
 ## What You'll Build
 
@@ -33,11 +33,6 @@ Enterprise-grade cloud services with strong hybrid cloud capabilities. Build wit
 Leading platform for data analytics and machine learning. Deploy with Cloud Functions, Cloud Run, and GKE.
 
 [Explore GCP Projects →](/cloud/gcp/)
-
-### Oracle Cloud
-Enterprise cloud with high-performance infrastructure and autonomous services.
-
-[Explore Oracle Cloud Projects →](/cloud/oracle/)
 
 ## Learning Path
 
