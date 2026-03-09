@@ -9,13 +9,16 @@ module.exports = {
             { text: 'Home', link: '/' },
             { text: 'Cloud', link: '/cloud/' },
             {
-                text: 'Providers',
+                text: 'Projects',
                 items: [
                     { text: 'AWS', link: '/cloud/aws/' },
                     { text: 'Azure', link: '/cloud/azure/' },
                     { text: 'GCP', link: '/cloud/gcp/' }
                 ]
             },
+            { text: 'Use Case Projects', link: '/use-cases/' },
+            { text: 'Sample Architectures', link: '/architectures/' },
+            { text: 'Terraform & Terragrunt', link: '/terraform/' },
             { text: 'About Me', link: '/about' }
         ],
 
@@ -72,6 +75,39 @@ module.exports = {
                         { text: 'AWS', link: '/cloud/aws/' },
                         { text: 'Azure', link: '/cloud/azure/' },
                         { text: 'GCP', link: '/cloud/gcp/' }
+                    ]
+                }
+            ],
+            '/use-cases/': [
+                {
+                    text: 'Use Case Projects',
+                    items: [
+                        { text: 'Overview', link: '/use-cases/' },
+                        { text: 'AWS', link: '/use-cases/aws/' },
+                        { text: 'Azure', link: '/use-cases/azure/' },
+                        { text: 'GCP', link: '/use-cases/gcp/' }
+                    ]
+                }
+            ],
+            '/architectures/': [
+                {
+                    text: 'Sample Architectures',
+                    items: [
+                        { text: 'Overview', link: '/architectures/' },
+                        { text: 'AWS', link: '/architectures/aws/' },
+                        { text: 'Azure', link: '/architectures/azure/' },
+                        { text: 'GCP', link: '/architectures/gcp/' }
+                    ]
+                }
+            ],
+            '/terraform/': [
+                {
+                    text: 'Terraform & Terragrunt',
+                    items: [
+                        { text: 'Overview', link: '/terraform/' },
+                        { text: 'AWS', link: '/terraform/aws/' },
+                        { text: 'Azure', link: '/terraform/azure/' },
+                        { text: 'GCP', link: '/terraform/gcp/' }
                     ]
                 }
             ]
