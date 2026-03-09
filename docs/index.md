@@ -11,7 +11,7 @@ hero:
       link: /cloud/
     - theme: alt
       text: View on GitHub
-      link: https://github.com/yourusername/thecloudprojects
+      link: https://github.com/thecloudprojects
 
 features:
   - icon: ☁️
@@ -42,10 +42,10 @@ features:
 ## Welcome to The Cloud Projects
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="https://discord.gg/your-invite-code" target="_blank" style="display: inline-block; background: #5865F2; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; margin: 0.5rem;">
+  <a href="https://discord.gg/jPm36QEA" target="_blank" style="display: inline-block; background: #5865F2; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; margin: 0.5rem;">
     Join Our Discord Community
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank" style="display: inline-block; background: #0A66C2; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; margin: 0.5rem;">
+  <a href="https://www.linkedin.com/groups/17599042/" target="_blank" style="display: inline-block; background: #0A66C2; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; margin: 0.5rem;">
     Connect on LinkedIn
   </a>
 </div>

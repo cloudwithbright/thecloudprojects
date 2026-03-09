@@ -21,7 +21,7 @@ A comprehensive platform for learning cloud engineering through hands-on, real-w
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/thecloudprojects.git
+git clone https://github.com/thecloudprojects/thecloudprojects.git
 cd thecloudprojects
 
 # Install dependencies

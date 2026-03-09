@@ -108,9 +108,9 @@ module.exports = {
         },
 
         socialLinks: [
-            { icon: 'discord', link: 'https://discord.gg/your-invite-code' },
-            { icon: 'linkedin', link: 'https://linkedin.com/in/yourprofile' },
-            { icon: 'github', link: 'https://github.com/yourusername/thecloudprojects' }
+            { icon: 'discord', link: 'https://discord.gg/jPm36QEA' },
+            { icon: 'linkedin', link: 'https://www.linkedin.com/groups/17599042/' },
+            { icon: 'github', link: 'https://github.com/thecloudprojects' }
         ],
 
         footer: {

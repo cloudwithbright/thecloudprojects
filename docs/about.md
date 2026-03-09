@@ -151,10 +151,10 @@ When I'm not working on cloud projects, you can find me:
 
 I'd love to hear from you! Whether you have questions, feedback, or just want to connect:
 
-- **Discord**: [Join our community](https://discord.gg/your-invite-code)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **Discord**: [Join our community](https://discord.gg/jPm36QEA)
+- **GitHub**: [github.com/thecloudprojects](https://github.com/thecloudprojects)
 - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [LinkedIn group](https://www.linkedin.com/groups/17599042/)
 - **Email**: your.email@example.com
 
 ### Support This Project
