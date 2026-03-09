@@ -8,8 +8,6 @@ module.exports = {
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Cloud', link: '/cloud/' },
-            { text: 'MLOps', link: '/mlops/' },
-            { text: 'LLMOps', link: '/llmops/' },
             {
                 text: 'Providers',
                 items: [
@@ -66,22 +64,6 @@ module.exports = {
                     ]
                 }
             ],
-            '/mlops/': [
-                {
-                    text: 'MLOps Projects',
-                    items: [
-                        { text: 'Overview', link: '/mlops/' }
-                    ]
-                }
-            ],
-            '/llmops/': [
-                {
-                    text: 'LLMOps Projects',
-                    items: [
-                        { text: 'Overview', link: '/llmops/' }
-                    ]
-                }
-            ],
             '/cloud/': [
                 {
                     text: 'Cloud Providers',
@@ -90,13 +72,6 @@ module.exports = {
                         { text: 'AWS', link: '/cloud/aws/' },
                         { text: 'Azure', link: '/cloud/azure/' },
                         { text: 'GCP', link: '/cloud/gcp/' }
-                    ]
-                },
-                {
-                    text: 'Other Topics',
-                    items: [
-                        { text: 'MLOps', link: '/mlops/' },
-                        { text: 'LLMOps', link: '/llmops/' }
                     ]
                 }
             ]

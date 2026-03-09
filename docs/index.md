@@ -4,7 +4,7 @@ layout: home
 hero:
   name: The Cloud Projects
   text: Master Cloud Engineering Through Hands-On Projects
-  tagline: A comprehensive platform for learning AWS, Azure, GCP, MLOps, and LLMOps through practical, real-world projects
+  tagline: A comprehensive platform for learning AWS, Azure, and GCP through practical, real-world projects
   actions:
     - theme: brand
       text: Get Started
@@ -22,10 +22,6 @@ features:
     title: Compute Services
     details: Master serverless functions, containers, Kubernetes, VMs, and compute orchestration across all major cloud providers
 
-  - icon: 🤖
-    title: MLOps & LLMOps
-    details: Build production-ready ML pipelines and deploy LLM applications with best practices and real-world patterns
-
   - icon: 📚
     title: Step-by-Step Guides
     details: Follow detailed tutorials with architecture diagrams, code samples, and deployment instructions
@@ -38,17 +34,6 @@ features:
     title: Project-Based Learning
     details: Build real applications from simple functions to complex distributed systems
 ---
-
-## Welcome to The Cloud Projects
-
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://discord.gg/jPm36QEA" target="_blank" style="display: inline-block; background: #5865F2; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; margin: 0.5rem;">
-    Join Our Discord Community
-  </a>
-  <a href="https://www.linkedin.com/groups/17599042/" target="_blank" style="display: inline-block; background: #0A66C2; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; margin: 0.5rem;">
-    Connect on LinkedIn
-  </a>
-</div>
 
 ## Introduction Video
 
@@ -74,16 +59,12 @@ This platform is designed for cloud engineers, developers, and enthusiasts who w
 - **AWS**: Lambda, ECS, EKS, App Runner, and more
 - **Azure**: Functions, Container Apps, AKS, Logic Apps, VMs
 - **GCP**: Cloud Functions, Cloud Run, GKE, Compute Engine
-- **MLOps**: Model training, deployment, monitoring, and automation
-- **LLMOps**: LLM deployment, fine-tuning, and production patterns
 
 ### Getting Started
 
-Choose your learning path based on your interests:
+Choose your learning path:
 
 1. [Cloud Computing Projects](/cloud/) - Start with fundamental cloud services
-2. [MLOps Projects](/mlops/) - Build ML pipelines and deploy models
-3. [LLMOps Projects](/llmops/) - Deploy and manage LLM applications
 
 ### Project Structure
 

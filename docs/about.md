@@ -20,7 +20,6 @@ I believe the best way to learn cloud engineering is by building real projects. 
 
 - Provides real-world project scenarios
 - Covers multiple cloud providers (AWS, Azure, GCP)
-- Includes modern practices like MLOps and LLMOps
 - Teaches both the "how" and the "why" behind cloud architectures
 - Helps developers build production-ready skills
 
@@ -30,7 +29,6 @@ I believe the best way to learn cloud engineering is by building real projects. 
 - **Containerization**: Docker, Kubernetes, ECS, AKS, GKE
 - **Serverless**: Lambda, Azure Functions, Cloud Functions, Cloud Run
 - **Infrastructure as Code**: Terraform, CloudFormation, ARM Templates
-- **MLOps & LLMOps**: Model deployment, pipeline automation, LLM operations
 - **DevOps**: CI/CD, Monitoring, Security, Cost Optimization
 
 ### Cloud Certifications
