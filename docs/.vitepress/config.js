@@ -28,9 +28,11 @@ module.exports = {
                     items: [
                         { text: 'Overview', link: '/cloud/aws/' },
                         { text: 'Lambda', link: '/cloud/aws/lambda/' },
-                        { text: 'ECS', link: '/cloud/aws/ecs/' },
+                        { text: 'ECS EC2', link: '/cloud/aws/ecs/ec2/' },
+                        { text: 'ECS Fargate', link: '/cloud/aws/ecs/fargate/' },
                         { text: 'EKS', link: '/cloud/aws/eks/' },
-                        { text: 'App Runner', link: '/cloud/aws/apprunner/' }
+                        { text: 'App Runner', link: '/cloud/aws/apprunner/' },
+                        { text: 'Elastic Beanstalk', link: '/cloud/aws/elasticbeanstalk/' }
                     ]
                 }
             ],
@@ -41,6 +43,7 @@ module.exports = {
                         { text: 'Overview', link: '/cloud/azure/' },
                         { text: 'Functions', link: '/cloud/azure/functions/' },
                         { text: 'Container Apps', link: '/cloud/azure/containerapp/' },
+                        { text: 'Container Instances', link: '/cloud/azure/containerinstance/' },
                         { text: 'AKS', link: '/cloud/azure/aks/' },
                         { text: 'Logic Apps', link: '/cloud/azure/logicapp/' },
                         { text: 'Virtual Machines', link: '/cloud/azure/vm/' },
@@ -56,6 +59,7 @@ module.exports = {
                         { text: 'Overview', link: '/cloud/gcp/' },
                         { text: 'Cloud Functions', link: '/cloud/gcp/functions/' },
                         { text: 'Cloud Run', link: '/cloud/gcp/cloudrun/' },
+                        { text: 'GKE', link: '/cloud/gcp/gke/' },
                         { text: 'Compute Engine', link: '/cloud/gcp/compute_engine/' },
                         { text: 'App Engine', link: '/cloud/gcp/app_engine/' },
                         { text: 'Workflows', link: '/cloud/gcp/workflow/' }
